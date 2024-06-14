@@ -1,8 +1,10 @@
 # Amazon-CLone
 
 This was a practice project made using:
-HTML
-CSS
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
 <h2>Browser View</h2>
 
